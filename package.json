@@ -1,0 +1,35 @@
+{
+  "name": "food-truck",
+  "version": "1.0.0",
+  "description": "Food Truck - Software of manegment orders.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsonCS/Food-Truck.git"
+  },
+  "keywords": [
+    "food;",
+    "truck;",
+    "foodtruck;",
+    "trabalho;",
+    "nodejs;",
+    "mongodb"
+  ],
+  "author": "Anderson Costa da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsonCS/Food-Truck/issues"
+  },
+  "homepage": "https://github.com/AsonCS/Food-Truck#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
